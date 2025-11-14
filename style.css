@@ -1,2 +1,4 @@
-h1{text-align:center}
-body{background-color: navy;}
+body {background-color:navy;}
+.caixa{background-color:red;}
+.alinhamento{text-align:center;}
+h1{color:white;}
